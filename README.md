@@ -1,6 +1,15 @@
 # PoliCal
 
-#### Este documento tiene atribución de licencia Creative Commons Zero que se puede ver en el archivo LICENSE del presente repositorio.
+Shield: [![CC BY 4.0][cc-by-shield]][cc-by]
+
+Este trabajo está licenciado bajo la licencia
+[Creative Commons Attribution 4.0 International License][cc-by].
+
+[![CC BY 4.0][cc-by-image]][cc-by]
+
+[cc-by]: http://creativecommons.org/licenses/by/4.0/
+[cc-by-image]: https://i.creativecommons.org/l/by/4.0/88x31.png
+[cc-by-shield]: https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg
 
 Los estudiantes de la Escuela Politécnica Nacional(EPN) utilizan una versión de moodle para la administración de tareas, exámenes, etc de ciertas materias en cada semestre.
 El fin de PoliCal es poder sincronizar desde el calendario electrónico que ofrece el aula virtual hacia Trello que es una plataforma muy poderosa para organizar tareas y proyectos.
